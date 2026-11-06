@@ -1,1 +1,1 @@
-ML project (PCA) ()
+ML project (PCA - randomized pca - incremental pca - random projection) (mnist)
